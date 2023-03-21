@@ -1,0 +1,24 @@
+Selamat Pagi Kak Helmi 
+
+Berikut saya berikan sebuah tes sebagai tahap selanjutnya setelah interview, saya berharap Anda dapat mengerjakan tes tersebut dan untuk batas waktu pengumpulannya 3x24 jam (3 hari) atau bisa juga mengumpulkan sebelum 3x24 jam
+Untuk pengumpulan tes-nya dapat disimpan di repository dan mengirimkan link githubnya kepada saya
+
+Terima kasih
+
+Tugas:
+Bangun API sederhana untuk aplikasi manajemen tugas menggunakan Node.js dan Express.js. API harus mendukung titik akhir berikut:
+DAPATKAN /tugas: Mengembalikan daftar semua tugas.
+-> POST /tugas: Membuat tugas baru. Badan permintaan harus berisi bidang-bidang berikut:
+    judul: Judul tugas (wajib)
+    deskripsi: Deskripsi tugas (opsional)
+    selesai: Boolean yang menunjukkan apakah tugas selesai (default: false)
+-> DAPATKAN /tasks/{id}: Mengembalikan tugas dengan ID yang ditentukan.
+-> PATCH /tasks/{id}: Memperbarui tugas dengan ID yang ditentukan. Badan permintaan harus berisi bidang yang perlu diperbarui.
+-> DELETE /tasks/{id}: Menghapus tugas dengan ID yang ditentukan.
+
+
+Persyaratan:
+Gunakan database yang sesuai (seperti MongoDB atau MySQL) untuk menyimpan tugas.
+Gunakan perutean dan middleware Express.js untuk menangani titik akhir API.
+Gunakan penanganan error dan logging yang sesuai untuk memastikan bahwa API kuat dan mudah di-debug.
+Gunakan Git untuk kontrol versi dan sertakan file README dengan instruksi tentang cara menjalankan aplikasi.
