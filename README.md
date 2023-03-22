@@ -1,7 +1,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Run Locally](https://github.com/helmipradita/test-upscale/edit/main/README.md#run-locally)
+* [Run Locally](#run-locally)
 * [Demo](https://github.com/helmipradita/test-upscale/edit/main/README.md#demo)
   *  [x] [API Reference - Task](#api-reference---task)
 * [Contact](#contact)
