@@ -1,9 +1,6 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
 * [Run Locally](https://github.com/helmipradita/test-upscale/edit/main/README.md#run-locally)
 * [Demo](https://github.com/helmipradita/test-upscale/edit/main/README.md#demo)
   *  [x] [API Reference - Task](#api-reference---task)
