@@ -3,7 +3,7 @@
 * [About the Project](#about-the-project)
 * [Run Locally](#run-locally)
 * [Demo](#demo)
-  *  [x] [API Deploy](#deploy)
+  *  [x] [API Deploy](#api-deploy)
   *  [x] [API Postman - Website](#api-postman)
   *  [x] [API Reference - Task](#api-reference---task)
 * [Contact](#contact)
