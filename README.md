@@ -48,7 +48,7 @@ Start the server
 
 # Demo
 
-## API deploy 
+## API Deploy 
 
 ```bash
 https://test-upscale.helmipradita.dev
