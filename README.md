@@ -1,18 +1,18 @@
-## Table of Contents
+# Table of Contents
 
 * [About the Project](#about-the-project)
 * [Run Locally](#run-locally)
 * [Demo](#demo)
-  *  [x] [API Demo - Website](#demo)
+  *  [x] [API Deploy](#deploy)
   *  [x] [API Postman - Website](#api-postman)
   *  [x] [API Reference - Task](#api-reference---task)
 * [Contact](#contact)
 
-## About The Project
+# About The Project
 
 Sebuah project REST API untuk mengelola task yang ditujukan untuk test
 
-## Run Locally
+# Run Locally
 
 Clone the project
 
@@ -46,17 +46,17 @@ Start the server
   npm run dev
 ```
 
-## Demo
+# Demo
 
-### API Postman
-```bash
-https://helmi-pradita.postman.co/workspace/Team-Workspace~33b9ca7f-04ba-427e-8cfb-cd8cf1a93588/collection/26506164-4786656b-9d24-4dbd-9a28-25b2c9acdf3c?action=share&creator=26506164
-```
-
-### API deploy 
+## API deploy 
 
 ```bash
 https://test-upscale.helmipradita.dev
+```
+
+## API Postman
+```bash
+https://helmi-pradita.postman.co/workspace/Team-Workspace~33b9ca7f-04ba-427e-8cfb-cd8cf1a93588/collection/26506164-4786656b-9d24-4dbd-9a28-25b2c9acdf3c?action=share&creator=26506164
 ```
 
 ## API Reference - Task
@@ -232,7 +232,7 @@ Response 200
 </details>
 
 
-## Contact
+# Contact
 
 Contributors names and contact info
   * Helmi Pradita [@helmipradita](https://github.com/helmipradita)
